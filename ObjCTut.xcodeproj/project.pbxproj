@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EF73CD0F1D76AB2800925939 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = EF73CD0E1D76AB2800925939 /* main.c */; };
+		EF73CD0F1D76AB2800925939 /* 1_hello_world.c in Sources */ = {isa = PBXBuildFile; fileRef = EF73CD0E1D76AB2800925939 /* 1_hello_world.c */; };
+		EF73CD191D77202900925939 /* 2_fahrenheit_celsius_converter.c in Sources */ = {isa = PBXBuildFile; fileRef = EF73CD181D77202900925939 /* 2_fahrenheit_celsius_converter.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +25,8 @@
 
 /* Begin PBXFileReference section */
 		EF73CD0B1D76AB2800925939 /* ObjCTut */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ObjCTut; sourceTree = BUILT_PRODUCTS_DIR; };
-		EF73CD0E1D76AB2800925939 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		EF73CD0E1D76AB2800925939 /* 1_hello_world.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1_hello_world.c; sourceTree = "<group>"; };
+		EF73CD181D77202900925939 /* 2_fahrenheit_celsius_converter.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 2_fahrenheit_celsius_converter.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +59,8 @@
 		EF73CD0D1D76AB2800925939 /* ObjCTut */ = {
 			isa = PBXGroup;
 			children = (
-				EF73CD0E1D76AB2800925939 /* main.c */,
+				EF73CD0E1D76AB2800925939 /* 1_hello_world.c */,
+				EF73CD181D77202900925939 /* 2_fahrenheit_celsius_converter.c */,
 			);
 			path = ObjCTut;
 			sourceTree = "<group>";
@@ -118,7 +121,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EF73CD0F1D76AB2800925939 /* main.c in Sources */,
+				EF73CD191D77202900925939 /* 2_fahrenheit_celsius_converter.c in Sources */,
+				EF73CD0F1D76AB2800925939 /* 1_hello_world.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
