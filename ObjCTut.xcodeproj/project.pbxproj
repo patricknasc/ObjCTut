@@ -10,6 +10,7 @@
 		EF73CD0F1D76AB2800925939 /* 1_hello_world.c in Sources */ = {isa = PBXBuildFile; fileRef = EF73CD0E1D76AB2800925939 /* 1_hello_world.c */; };
 		EF73CD191D77202900925939 /* 2_fahrenheit_celsius_converter.c in Sources */ = {isa = PBXBuildFile; fileRef = EF73CD181D77202900925939 /* 2_fahrenheit_celsius_converter.c */; };
 		EF73CD1B1D77260C00925939 /* 3_data_type_limits.c in Sources */ = {isa = PBXBuildFile; fileRef = EF73CD1A1D77260C00925939 /* 3_data_type_limits.c */; };
+		EF73CD1D1D778FAC00925939 /* 4_math_operations.c in Sources */ = {isa = PBXBuildFile; fileRef = EF73CD1C1D778FAC00925939 /* 4_math_operations.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		EF73CD0E1D76AB2800925939 /* 1_hello_world.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 1_hello_world.c; sourceTree = "<group>"; };
 		EF73CD181D77202900925939 /* 2_fahrenheit_celsius_converter.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 2_fahrenheit_celsius_converter.c; sourceTree = "<group>"; };
 		EF73CD1A1D77260C00925939 /* 3_data_type_limits.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 3_data_type_limits.c; sourceTree = "<group>"; };
+		EF73CD1C1D778FAC00925939 /* 4_math_operations.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 4_math_operations.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				EF73CD0E1D76AB2800925939 /* 1_hello_world.c */,
 				EF73CD181D77202900925939 /* 2_fahrenheit_celsius_converter.c */,
 				EF73CD1A1D77260C00925939 /* 3_data_type_limits.c */,
+				EF73CD1C1D778FAC00925939 /* 4_math_operations.c */,
 			);
 			path = ObjCTut;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF73CD1D1D778FAC00925939 /* 4_math_operations.c in Sources */,
 				EF73CD1B1D77260C00925939 /* 3_data_type_limits.c in Sources */,
 				EF73CD191D77202900925939 /* 2_fahrenheit_celsius_converter.c in Sources */,
 				EF73CD0F1D76AB2800925939 /* 1_hello_world.c in Sources */,
