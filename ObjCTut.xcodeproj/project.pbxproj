@@ -13,6 +13,7 @@
 		EF73CD1D1D778FAC00925939 /* 4_math_operations.c in Sources */ = {isa = PBXBuildFile; fileRef = EF73CD1C1D778FAC00925939 /* 4_math_operations.c */; };
 		EF73CD1F1D779C2000925939 /* 5_loops.c in Sources */ = {isa = PBXBuildFile; fileRef = EF73CD1E1D779C2000925939 /* 5_loops.c */; };
 		EF73CD211D77E5A900925939 /* 6_functions_and_pointers.c in Sources */ = {isa = PBXBuildFile; fileRef = EF73CD201D77E5A900925939 /* 6_functions_and_pointers.c */; };
+		EF73CD231D786C7D00925939 /* 7_structs.c in Sources */ = {isa = PBXBuildFile; fileRef = EF73CD221D786C7D00925939 /* 7_structs.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		EF73CD1C1D778FAC00925939 /* 4_math_operations.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 4_math_operations.c; sourceTree = "<group>"; };
 		EF73CD1E1D779C2000925939 /* 5_loops.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 5_loops.c; sourceTree = "<group>"; };
 		EF73CD201D77E5A900925939 /* 6_functions_and_pointers.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 6_functions_and_pointers.c; sourceTree = "<group>"; };
+		EF73CD221D786C7D00925939 /* 7_structs.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 7_structs.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				EF73CD1C1D778FAC00925939 /* 4_math_operations.c */,
 				EF73CD1E1D779C2000925939 /* 5_loops.c */,
 				EF73CD201D77E5A900925939 /* 6_functions_and_pointers.c */,
+				EF73CD221D786C7D00925939 /* 7_structs.c */,
 			);
 			path = ObjCTut;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 				EF73CD191D77202900925939 /* 2_fahrenheit_celsius_converter.c in Sources */,
 				EF73CD0F1D76AB2800925939 /* 1_hello_world.c in Sources */,
 				EF73CD211D77E5A900925939 /* 6_functions_and_pointers.c in Sources */,
+				EF73CD231D786C7D00925939 /* 7_structs.c in Sources */,
 				EF73CD1F1D779C2000925939 /* 5_loops.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
